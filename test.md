@@ -1,1 +1,1 @@
-Release 0.2
+Release 0.3
