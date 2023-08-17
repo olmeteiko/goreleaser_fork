@@ -24,6 +24,7 @@ func a() bool {
 	return false
 }
 
+
 func b() bool {
 	fmt.Println("b")
 
