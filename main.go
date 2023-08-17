@@ -26,6 +26,8 @@ func a() bool {
 
 
 
+
+
 func b() bool {
 	fmt.Println("b")
 
